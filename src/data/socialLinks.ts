@@ -11,14 +11,14 @@ import type { SocialLink } from "../types/social";
 
 export const socialLinks: SocialLink[] = [
   {
-    name: "ورشة إعداد السيرة الذاتية ورسالة التغطية باحتراف",
+    name: "ورشة إعداد السيرة الذاتية ورسالة التغطية باحتراف (مجانية)",
     username: "نموذج التسجيل",
     url: "https://forms.gle/h4rwiGUNMwQWbiXBA",
     icon: FaWpforms,
     featured: true,
   },
   {
-    name: "التسجيل في دورة إدارة الحالة",
+    name: "التسجيل في دورة إدارة الحالة | Case Management",
     username: "نموذج التسجيل",
     url: "https://forms.gle/KvmW8zSw13f2nF7A7",
     icon: FaWpforms,
