@@ -32,6 +32,13 @@ export const socialLinks: SocialLink[] = [
     featured: true,
   },
   {
+    name: "دورة الرخصة الدولية في قيادة الحاسوب (سيتم الإعلان عنها قريباً)",
+    username: "نموذج التسجيل",
+    url: "https://docs.google.com/forms/d/e/1FAIpQLSdqvfM4b-WaKqKaxt_fNrqfZrHmE1YE3bppA9BtIm3exlIZow/viewform?usp=header",
+    icon: FaWpforms,
+    featured: true,
+  },
+  {
     name: "Instagram",
     username: "@sadeem_center2026",
     url: "https://www.instagram.com/sadeem_center2026/",
