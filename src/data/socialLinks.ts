@@ -11,30 +11,23 @@ import type { SocialLink } from "../types/social";
 
 export const socialLinks: SocialLink[] = [
   {
-    name: "ورشة إعداد السيرة الذاتية ورسالة التغطية باحتراف (مجانية)",
+    name: "ورشة الجاهزية للطوارئ ومهارات التعامل مع الإصابات",
     username: "نموذج التسجيل",
-    url: "https://forms.gle/h4rwiGUNMwQWbiXBA",
+    url: "https://docs.google.com/forms/d/e/1FAIpQLSfoo5IAQzrOyUgJ6_SDPWTuiTGdBwj2HGzRdbhIJdVp3bjB-Q/viewform?usp=header",
     icon: FaWpforms,
     featured: true,
   },
   {
-    name: "التسجيل في دورة إدارة الحالة | Case Management",
+    name: "نموذج التسجيل في دورة تدريب المدربين (TOT)",
     username: "نموذج التسجيل",
-    url: "https://forms.gle/KvmW8zSw13f2nF7A7",
+    url: "https://docs.google.com/forms/d/e/1FAIpQLSfjST3axPMZ8F9cZfneLGO2Qe5-u_mECuZwrSdruDM_hwLatg/viewform?usp=header",
     icon: FaWpforms,
     featured: true,
   },
   {
-    name: "التسجيل في دورة الرخصة الدولية لقيادة الحاسوب (ICDL)",
+    name: "دورة الذكاء الاصطناعي باستخدام Claude & Claude Code",
     username: "نموذج التسجيل",
-    url: "https://forms.gle/e43tepcWnquxtzJX9",
-    icon: FaWpforms,
-    featured: true,
-  },
-  {
-    name: "التسجيل في دورة مهارات التمريض والاسعاف العملي",
-    username: "نموذج التسجيل",
-    url: "https://forms.gle/ZnWRwXoumNm4mQrS7",
+    url: "https://docs.google.com/forms/d/e/1FAIpQLSc0-KUfoeX9_Qhq_3ERAIbGHCkHNlTyXNmTFuGvQxuMQm1Z9g/viewform?usp=header",
     icon: FaWpforms,
     featured: true,
   },
