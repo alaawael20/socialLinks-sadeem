@@ -46,7 +46,7 @@ export const socialLinks: SocialLink[] = [
   {
     name: "WhatsApp",
     username: "القناة الرسمية للمركز",
-    url: "https://whatsapp.com/channel/0029Vb8L0ju1t90b0TQobX3E",
+    url: "https://chat.whatsapp.com/H9pAYZoicRw88Bua5nHg9E",
     icon: FaWhatsapp,
   },
   {
