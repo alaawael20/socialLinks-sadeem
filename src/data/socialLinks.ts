@@ -11,6 +11,13 @@ import type { SocialLink } from "../types/social";
 
 export const socialLinks: SocialLink[] = [
   {
+    name: "ورشة تدريبية مجانية | أساسيات البرمجة ومجالات التقنية",
+    username: "نموذج التسجيل",
+    url: "https://docs.google.com/forms/d/e/1FAIpQLSdepMqf_0O4Wv-ajHL5YSH1DxxzzsgzBHY9q4EIWZv-RiuVug/viewform?usp=header",
+    icon: FaWpforms,
+    featured: true,
+  },
+  {
     name: "ورشة الجاهزية للطوارئ ومهارات التعامل مع الإصابات",
     username: "نموذج التسجيل",
     url: "https://docs.google.com/forms/d/e/1FAIpQLSfoo5IAQzrOyUgJ6_SDPWTuiTGdBwj2HGzRdbhIJdVp3bjB-Q/viewform?usp=header",
@@ -33,7 +40,7 @@ export const socialLinks: SocialLink[] = [
   },
   {
     name: "دورة الرخصة الدولية في قيادة الحاسوب (سيتم الإعلان عنها قريباً)",
-    username: "نموذج التسجيل",
+    username: "بإمكانك التسجيل الأن بهذا الكورس وسيتم التواصل معك",
     url: "https://docs.google.com/forms/d/e/1FAIpQLSdqvfM4b-WaKqKaxt_fNrqfZrHmE1YE3bppA9BtIm3exlIZow/viewform?usp=header",
     icon: FaWpforms,
     featured: true,
