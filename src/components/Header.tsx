@@ -53,7 +53,7 @@ export default function Header() {
           text-xs text-[#ECCC91]
         "
       >
-        الحسابات الرسمية للمركز
+        الروابط الرسمية للمركز
       </div>
 
       <p className="mt-3 max-w-md text-sm leading-6 text-white/55">
