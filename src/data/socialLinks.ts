@@ -4,7 +4,6 @@ import {
   FaWhatsapp,
   FaTelegramPlane,
   FaLinkedinIn,
-  FaWpforms,
 } from "react-icons/fa";
 
 import type { SocialLink } from "../types/social";
